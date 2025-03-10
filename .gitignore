@@ -8,6 +8,8 @@ __pycache__/
 
 ls-academy/
 
+.env
+
 # Distribution / packaging
 .Python
 build/
